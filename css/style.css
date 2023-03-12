@@ -1,1 +1,6 @@
-#footer{background:0 0}.recent-post-item{border-radius:15%}
+#footer {
+    background: transparent;
+}
+.recent-post-item {
+    border-radius: 15%;
+}
